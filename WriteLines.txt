@@ -1,0 +1,1068 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-64495-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-64495-1', { 'anonymize_ip': true, 'forceSSL': true });
+    </script>
+    <title>
+	Voedingswaarde Cola light per 100 gram.
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="robots" content="index,follow" /><meta id="ctl00_mtaLang" http-equiv="Content-Language" content="NL" /><meta name="Author" content="Seoptics - R. van der Voort" /><meta name="copyright" content="Copyright Seoptics | R. van der Voort" /><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" /><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" /><link rel="manifest" href="/site.webmanifest" /><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" /><meta name="apple-mobile-web-app-title" content="Voedingswaarde" /><meta name="application-name" content="Voedingswaarde" /><meta name="msapplication-TileColor" content="#da532c" /><meta name="theme-color" content="#ffffff" /><link rel="shortcut icon" href="/_lib/img/favicon.ico" type="image/x-icon" /><link rel="Stylesheet" href="/_lib/css/cssmain.min.css" media="all" />
+        <script type="text/javascript" src="//massariuscdn.com/pubs/voedingswaardetabel/voedingswaardetabel_adtech_setup.js"></script>    
+        <script>
+            var msTag = {
+                site: 'voedingswaardetabel',
+                page: 'ros'
+            }
+        </script>
+    
+    <!--[if lt IE 7]>
+	<style media="screen" type="text/css">
+	#container {
+		height:100%;
+	}
+	</style>
+	<![endif]-->
+    
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Voedingswaardetabel" />
+<link href="/Content/AjaxControlToolkit/Styles/Bundle?v=" rel="stylesheet"/>
+<link href="../../App_Themes/vwOverview/overview.css" type="text/css" rel="stylesheet" /><meta Property="og:title" content="Voedingswaarde Cola light" /><meta property="og:url" content="https://www.voedingswaardetabel.nl/voedingswaarde/voedingsmiddel/?id=1025" /><meta property="og:image" content="https://www.voedingswaardetabel.nl/_lib/img/prod/big/colalight.jpg" /><meta property="og:description" content="Bekijk de belangrijkste voedingswaarde van het voedingsmiddel Cola light." /><meta name="description" content="Voedingswaarde van Cola light" /><meta name="keywords" content="voedingswaarde,Cola light,kcal,eiwit,koolhydraten,vet" /></head>
+<body>
+    <span id="ctl00_lblStat"></span>
+    <form method="post" action="/voedingswaarde/voedingsmiddel/?id=1025" id="aspnetForm" class="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDc5MDM4ODZkGAEFGmN0bDAwJGNwaE1haW4kbHR2TW9yZVByb2RzDxQrAA5kZGRkZGRkPCsACgACCmRkZGYC/////w9kL2w9ucsryZFWI4CdiwxCJw4/hQM4AtzEo3nWzXHjnoc=" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"nl-NL","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":".","CurrencySymbol":"€","NaNSymbol":"NaN","CurrencyNegativePattern":12,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-Infinity","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":".","CurrencyPositivePattern":2,"PositiveInfinitySymbol":"Infinity","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":".","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"-","FirstDayOfWeek":1,"CalendarWeekRule":2,"FullDateTimePattern":"dddd d MMMM yyyy HH:mm:ss","LongDatePattern":"dddd d MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"d MMMM","PMDesignator":"","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d-M-yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["zo","ma","di","wo","do","vr","za"],"ShortestDayNames":["zo","ma","di","wo","do","vr","za"],"DayNames":["zondag","maandag","dinsdag","woensdag","donderdag","vrijdag","zaterdag"],"AbbreviatedMonthNames":["jan","feb","mrt","apr","mei","jun","jul","aug","sep","okt","nov","dec",""],"MonthNames":["januari","februari","maart","april","mei","juni","juli","augustus","september","oktober","november","december",""],"IsReadOnly":true,"NativeCalendarName":"Gregoriaanse kalender","AbbreviatedMonthGenitiveNames":["jan","feb","mrt","apr","mei","jun","jul","aug","sep","okt","nov","dec",""],"MonthGenitiveNames":["januari","februari","maart","april","mei","juni","juli","augustus","september","oktober","november","december",""]},"eras":[1,"n.Chr.",null,0]};//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=23vy20TBBQd9sI7H8fQNS2UAVbQ8cYKbeZYZw_QQbPoOqMdF5k1484sRclQMLcLj6ZyOwTTweN0qpUECsIMOIaxcsZExzHDVAHBcXEKYZ_fBj7j0gBP4qTiCTNz-eFdP1Y1c_LtUKLHcoW2bK3ifvXyvNsxGc2WCQy7n8QxzsxY1&amp;t=ffffffffa580202a" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B8466898" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAGefRs1lXADeLHUQY+uMziOU4+3WpZQNb82rzs2KnT3rh5COLUhEJIjsTXbFxDkEMdRVekZAH7n66iWui6apxhYLQqX2hln0s6kL79eVDTwqHOx9eE7wSELSwM4JYikm1+QzUsnoHiorGoi+FjVDydMPjxRnXeR3BgEwSyg6rgzIkdOVwvg5jmxsf2ZQdL1V07XWAkB9BgvUTQdRTNUtj2JAKOiK9vW3L6OYsoMK9U9P6wVyfRnJGbcSmxLPn4N8d2HQ/ASEBH7ltXECcnjrw6TXKrWg7PtSAWIsPJCfXIQZMcm7g74cmFRZ5U3rK3YURoJh9Ts4ub2+ppppYk7j1gxJ4yLoTKWhrTll8rsGlS9t8XEDOu4lvKtu/VaglykSONWg0YxAPj9ODwpCTP0Jl4unS1egCrx50Qz4H3pviwPkl3+f/+7xuZv1OwNEGXiAMnJzgOOYPQc28PsveS8vmNjRs6fMeD3wRJdijWRilVlQVxVR8NT0ZJn56/FvQA3bb/Ng41VnW1rRDeOhewLSIjDMOPvrupyWv6BGOX/1MoO7PfmyolcT8SPkppYPSGP9jdQlpaZ88LXk+9F5nS1lVNBtnj7yOADOYkpoi8XUKP9CYDhj1qRNTcCwO8G9HJnxn9tL1HMy4CxjHzH59Zc0l/pgVCy9iGyd30QhbKBH7OjX7yf0utuB2mzRZJNcWfzUv62KWYJe/hWCyJ1lBFxs0rIflaynKcWYSeVZjG5Sx2oeTNE5QgUGhdwuRGW65BMfPVhpSD7WtwUydVL+vC+ARUm6DiPDb+Q/wksnqrzpW7u+9HhIKAPPkvy+Cq+iCRwug61MxYwow/1MQwjf4kjgXrFkg+MkgTZ1npb7rO++r1ShUMcyHh+Mfmv6MmwDuK8MgQE9rKlzSFdndaDDCITjLhcsaGfzjHSUfF2gwSp9BTQvAMHXevl6InuzRHznqhLpDc+lIGY+eFiwTSMwL4qyqbMjVHA6QofcMX1+K+YuzOgXCGvh3tWAxzElfx1mAv72WyfIr4TzmscVNfijgbKwwVdbN6xXkZ8EsrRx3bl4sovn9hoq5IJGCiUImcj48afZNS+lATsnlvnQX+Z2SQGi2tnTCfJGcdxtiSBjlG8HwJ3HdeftBctoFhji0w8NSA5oGhFvok15UXxJEd9GWEd7oC6jbg6aHPFRW9PmG488DiG8K7gYB/GkFjRuTff5Fy+LC6hy855TiT9iOea+6EqXeoSdZRozyypno3xp6STsZNH1W6+o+CN9sVLSF+XHsjWQiLMjEaVkqAvLTf+ka9hQOMDNf1G7diDt/Nxci+R3l8uPy4dHYNCfJEUmi8pkQgMz/dP/2Z3U7U+mfjJIFDHFnBciiLq8dJLHS78QIADuZ0beea6Fw1rUf/54rS0yb1HvY3A5HdPcBjmcl406PHdsEhrDPeJVodjGq6jtFZWrRolgk+VntkRzopAMD8JFP5kHt6TEySpPvXq1TTXdneEbiTzRnWE4kN1mKKUIzAs9TWK3g0r6iN/E6uo+j93vY6OBTLm+VrTCiXBBBol8SH1dKHxtnDipBOSz/USvjLNBFMhdccIDFpO18qZMGx2oTL1Dw5GL5cjfBmRIyErGBDpDBNsNOaoknxY2lnCqrkpIji7FKpsRHJ8kjeyg28Y3/lEUZEX84MRVLYtX1fJS/wooNPWFA+GemFeMt1Oh3+g/K8dwCKLmt6RUIi7W9SHNH90UuwlVNg9X5J7Gxw9ZwKiH0Pi1Y+cd0HwSD+I01P3KNxFechd2I7SZb6y7GNf7c99oAGtlirsvAMbXjXiIJ71FVNNqHm8bfRotJ608DwaFdtgYpTXLfAEJ8yjzZkE18Tsj8tHYmFc7h41Bj6WZ6zzQCd85rspqXPiKR2ZcOBqXNiSmWMW/QhGwhZwahpRjPMzZjnSuxDoVE1xILgt7O7JN3j93SxyWaRzvFPIcoRVme136kreZ6Tq4Zx5IMITgFG0yaCbGYlin/62iSROQHrasW23yYouyG+KnvJ/zWJVPyff79LyxICezjpaFOPds5yu6qqYdjdWHTUMJOxHgJ/6/Zlt7iflpSkCKouGAxjhNVgaec/tqnRCliNOEOxQuYiSZ9gqe6FNvaIqlC8/DE85F6f959DAcEJ9GKI9GOBFQ4h3l0BgA76KkTV9ZKqkPjJP7X0BCv+g8LDs8MyBj1SYkpc8LGaptccCDp6mflcyZfp/hK7mbMrYwk0DUZ/hUoxPA2CM=" />
+        
+        <div id="outercontainer">
+            <div id="container">
+                <div id="header">
+                    <div class="headerTop">
+                        <div id="ctl00_pnlHeaderTopSocial" class="headerTopSocial">
+	
+                            <a id="ctl00_hplMsrfb" title="Voedingswaardetabel op Facebook" href="https://www.facebook.com/voedingswaardetabel" target="_blank"><span class="socialiconfacebook"></span></a>
+                            <!--<span class="socialiconlinkedin"></span>-->
+                            <a id="ctl00_hplMstrtt" title="Voedingswaardetabel op Twitter" href="https://twitter.com/onsvoedsel" target="_blank"><span class="socialicontwitter"></span></a>
+                            <a href="https://google.com/+VoedingswaardetabelNl" target="_blank"><span class="socialicongoogle"></span></a>
+                        
+</div>
+                        <div class="headerTopRight"></div>
+                        <div class="headerTopOlive"></div>
+                        <div class="headerTopColors"></div>
+                        <div class="headerLogo">
+                            <a id="ctl00_hplMsrlogo" title="Voedingswaardetabel" href="/"><img id="ctl00_imgMsrLogo" title="Voedingswaardetabel" src="/_lib/img/headerlogo.png" alt="Voedingswaardetabel" /></a>
+                        </div>
+                        <div id="RandomProd" class="randomprod">
+	
+                            
+                            <img src="/_lib/img/vwt-account.jpg" alt="Maak een VWT-Account aan" class="book" width="46" height="60" />Zien wat je echt eet?<br />Maak nu je persoonlijke VWT-Account aan.<br /><a href="/leden/registreren/" title="Maak gratis een VWT-Account aan">Registreren</a>
+                        
+</div>
+                    </div>
+                    
+                    
+                    <div class="breadcrumb">
+                        <div class="hidright"></div>
+                        <a id="ctl00_hplBCHome" title="Voedingswaardetabel" href="/">Home</a>
+                         &gt; <a href="/voedingswaarde/" title="Voedingswaarde">Voedingswaarde</a> &gt; <a href="./?id=1025" title="Voedingswaarde Cola light">Cola light</a>
+                    </div>
+                    <div id="pnlHeaderAmGray" class="amgrayT">
+                        <div id="ctl00_gAmGrayTop_pnlL7x9Top" class="amblockL7x9t">
+	
+    
+    <div id="pnlL7x9Topam" class="am-ht">
+		
+        <style>
+            .am-ht {width:100%; text-align:center}
+            /*@media(max-width:767px) {.am-ht {width:320px;height:250px;margin:-10px 0 0 0;}}*/
+        </style>
+        <!-- /13436254/Voedingswaardetabel_HEADER -->
+        <div id='div-gpt-ad-1546418606238-0'>
+            <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1546418606238-0'); });
+            </script>
+        </div>
+    
+	</div>
+
+</div>
+
+
+
+
+
+
+
+
+                    </div>
+                    <div class="headerMenu">
+                        <div class="innerheadermenu">
+                            <div id="smoothmenu1" class="ddsmoothmenu">
+                                <div class="hammenu mobdis"><div></div><div></div><div></div></div>
+                                <ul><li class="topmenu"><a href="/" title="Voedingswaardetabel">Informatie</a><ul><li><a href="/over/" title="Over / Wie is?"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />Over / Wie is?</a></li><li><a href="/voedingswaarde/" title="Voedingswaarde"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_cup" />Voedingswaarde<img src="/_lib/img/icons/icon_bullet_arrow_right.gif" class="iocn" style="float:right; position:absolute; right:2px" alt="" /></a><ul><li class="libot"><a href="/voedingswaarde/" title="Verwijderd alle ingestelde filters op de tabel"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_cup" />Beginwaarde</a></li><li class="libot"><a href="/voedingswaarde/vitamines/" title="Overzicht van vitamines"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_cup" />Vitamines</a></li><li class="libot"><a href="/voedingswaarde/mineralen/" title="Overzicht van mineralen"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_cup" />Mineralen</a></li><li class="libot"><a href="/voedingswaarde/top10/" title="Overzicht van top 10 voedingsmiddelen"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_cup" />Top 10</a></li><li class="libot"><a href="/voedingswaarde/per-portie/" title="Voedingswaarde per portie"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_cup" />Per portie</a></li></ul></li><li><a href="/nieuws/" title="Nieuws"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_news" />Nieuws</a></li><li><a href="/bereken/" title="Bereken"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_calc" />Bereken<img src="/_lib/img/icons/icon_bullet_arrow_right.gif" class="iocn" style="float:right; position:absolute; right:2px" alt="" /></a><ul><li class="libot"><a href="/bereken/bmi/" title="Body Mass Index"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_calc" />Body Mass Index</a></li><li class="libot"><a href="/bereken/energieverbruik/" title="Energieverbruik"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_calc" />Energieverbruik</a></li><li class="libot"><a href="/bereken/bloedalcoholgehalte/" title="Bloedalcoholgehalte"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_calc" />Bloedalcoholgehal.</a></li><li class="libot"><a href="/bereken/basaal-metabolisme-ratio/" title="Basaal metabolisme (BMR)"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_calc" />Ruststofwisseling</a></li><li class="libot"><a href="/bereken/pral/" title="Bereken de pral waarde van een voedingsmiddel"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_calc" />PRAL-waarde</a></li></ul></li><li><a href="/faq/" title="Faq"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_help" />Faq</a></li><li><a href="/boeken/" title="Boeken van voedingswaardetabel"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_book" />Boeken</a></li><li><a href="/links/" title="Links"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_link" />Links</a></li><li><a href="/uitleg-voedingswaardetabel/" title="Hoe de tabel te gebruiken"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_help" />Uitleg tabel</a></li><li><a href="/sitemap/" title="Sitemap"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_site" />Sitemap</a></li><li class="libot"><a href="/disclaimer/" title="Disclaimer & Privacy"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_eye" />Disclaimer<img src="/_lib/img/icons/icon_bullet_arrow_right.gif" class="iocn" style="float:right; position:absolute; right:2px" alt="" /></a><ul><li class="libot"><a href="/disclaimer/cookies/" title="Cookiebeleid"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_eye" />Cookies</a></li><li class="libot"><a href="/disclaimer/privacy/" title="Privacybeleid"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_eye" />Privacy</a></li></ul></li></ul></li><li><a href="/watiswat/" title="Wat is wat?">Wat is wat?</a><ul><li><a href="/watiswat/energie/" title="Energie"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />Energie</a></li><li><a href="/watiswat/water/" title="Water"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />Water</a></li><li><a href="/watiswat/eiwitten/" title="Eiwitten"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />Eiwitten</a></li><li><a href="/watiswat/vetten/" title="Vetten"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />Vetten</a></li><li><a href="/watiswat/cholesterol/" title="Cholesterol"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />Cholesterol</a></li><li><a href="/watiswat/koolhydraten/" title="Koolhydraten"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />Koolhydraten</a></li><li><a href="/watiswat/voedingsvezels/" title="Voedingsvezels"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />Voedingsvezels</a></li><li><a href="/watiswat/vitamines/" title="Vitamines"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />Vitamines</a></li><li><a href="/watiswat/mineralen/" title="Mineralen"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />Mineralen</a></li><li><a href="/watiswat/alcohol/" title="Alcohol"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />Alcohol</a></li><li><a href="/watiswat/onderzoekswaarde/" title="Goed gevoel of gezonde keuze?"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />Onderzoekwaarde</a></li><li class="libot"><a href="/e-nummers/" title="Overzicht van de E-nummers"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_info" />E-nummers</a></li></ul></li><li><a href="/contact/" title="Contact">Contact</a></li><li><a href="/leden/registreren/" title="Ga naar je persoonlijke voedingsdagboek">Voedingsdagboek</a><ul><li class="libot"><a href="/leden/" title="Inloggen"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_lock" />Aanmelden</a></li></ul></li><li><a href="/leden/" title="Registreren particulieren">Aanmelden</a><ul><li class="libot"><a href="/leden/login/reset/" title="Reset je wachtwoord"><img src="/_lib/img/pixel.gif" alt="" class="iconset iconsetl icon_lock" />Wachtwoord vergeten</a></li></ul></li></ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="headerAlwaysVis">
+                        <div class="headerLeft">
+                            <div class="howtouse">
+                                <div class="howtolink">
+                                    <a id="ctl00_hplHowtouse" title="Hoe de tabel te gebruiken" href="/uitleg-voedingswaardetabel/"><span id="ctl00_lblMstHowtouse">Hoe de tabel<br />te gebruiken</span></a>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="inputwrap">
+                                <div class="inputLeft"></div>
+                                <div class="inputMid W124">
+                                    <input name="ctl00$txtSearch" type="text" maxlength="20" id="txtSearch" class="input W124" />
+                                    <input type="hidden" name="ctl00$tbwSearch_ClientState" id="ctl00_tbwSearch_ClientState" />
+                                </div>
+                                <div class="inputRight"></div>
+                            </div>
+                            <input type="submit" name="ctl00$btnSearch" value="Zoeken in de tabel" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnSearch&quot;, &quot;&quot;, true, &quot;searchprods&quot;, &quot;&quot;, false, false))" id="ctl00_btnSearch" class="button hand" />
+                            <div class="showTooltip hand collapsed smallText" id="ttVwtOptions" style="line-height:18px; vertical-align:middle;">
+                                <span id="lblFilters">Zoekfilters openen</span>
+                            </div>
+                            <div class="tooltip" id="vwtfilters">
+                                <table cellpadding="0" cellspacing="0" class="tablefilters">
+                                    <tr>
+                                        <td><span id="ctl00_lblFilGroup">Productgroep</span></td>
+                                        <td>
+                                            <select name="ctl00$ddlProdGroup" id="ddlProdGroup" class="ddlselect me123">
+	<option selected="selected" value="-1">-- kies een productgroep --</option>
+	<option value="99">Alle groepen (max. 60 producten)</option>
+	<option value="9">Aardappels en aardappelproducten</option>
+	<option value="25">Alcoholische dranken</option>
+	<option value="2">Brood en broodproducten</option>
+	<option value="7">Desserts</option>
+	<option value="27">Diversen</option>
+	<option value="24">Dranken</option>
+	<option value="15">Eieren en eiproducten</option>
+	<option value="11">Fruit</option>
+	<option value="26">Gemaksvoeding</option>
+	<option value="1">Granen</option>
+	<option value="10">Groente en peulvruchten</option>
+	<option value="21">Hartige snacks</option>
+	<option value="8">IJs</option>
+	<option value="6">Kaas</option>
+	<option value="4">Koek en gebak</option>
+	<option value="22">Kruiden en specerijen</option>
+	<option value="5">Melk en melkproducten</option>
+	<option value="12">Noten en zaden</option>
+	<option value="19">Oli&#235;n en vetten</option>
+	<option value="3">Ontbijtgranen</option>
+	<option value="18">Schaal- en schelpdieren</option>
+	<option value="20">Soep en sauzen</option>
+	<option value="17">Vis en visproducten</option>
+	<option value="13">Vlees</option>
+	<option value="16">Vleesvervangers</option>
+	<option value="14">Vleeswaren en worst</option>
+	<option value="23">Zoetwaren</option>
+
+</select>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><span id="ctl00_lblFilSrchIn">Zoeken in</span></td>
+                                        <td>
+                                            <div id="divrblVW">
+                                                <span id="rblVW" class="radiobuttons"><input id="rblVW_0" type="radio" name="ctl00$rblVW" value="vw" checked="checked" /><label for="rblVW_0">voedingswaarde</label><input id="rblVW_1" type="radio" name="ctl00$rblVW" value="vm" /><label for="rblVW_1">vitamines</label><input id="rblVW_2" type="radio" name="ctl00$rblVW" value="mn" /><label for="rblVW_2">mineralen</label></span>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><span id="ctl00_lblFilSrt">Sorteren</span></td>
+                                        <td>
+                                            <div id="filtersortVW">
+	
+                                                <select name="ctl00$ddlProdSortVW" id="ddlProdSortVW" class="ddlselect">
+		<option selected="selected" value="-1">-- kies sorteren --</option>
+		<option value="product">Voedingsmiddel</option>
+		<option value="kcal">kcal</option>
+		<option value="kjoule">kjoule</option>
+		<option value="water">Water</option>
+		<option value="eiwit">Eiwit</option>
+		<option value="koolh">Koolhydraten</option>
+		<option value="suikers">Suikers</option>
+		<option value="vet">Vet</option>
+		<option value="verz">Verzadigd vet</option>
+		<option value="eov">Enkelvoudig onverzadigd vet</option>
+		<option value="mov">Meervoudig onverzadigd vet</option>
+		<option value="chol">Cholesterol</option>
+		<option value="voedv">Voedingsvezels</option>
+		<option value="prodfeeling">Gevoelswaarde</option>
+		<option value="prodhealty">Gezondheidswaarde</option>
+
+	</select>
+                                            
+</div>
+                                            <div id="filtersortVM" class="hidden">
+	
+                                                <select name="ctl00$ddlProdSortVM" id="ddlProdSortVM" disabled="disabled" class="aspNetDisabled ddlselect">
+		<option selected="selected" value="-1">-- kies sorteren --</option>
+		<option value="product">Voedingsmiddel</option>
+		<option value="vita">Vitamine A</option>
+		<option value="vitb1">Vitamine B1</option>
+		<option value="vitb2">Vitamine B2</option>
+		<option value="vitb6">Vitamine B6</option>
+		<option value="vitb11">Vitamine B11</option>
+		<option value="vitb12">Vitamine B12</option>
+		<option value="vitc">Vitamine C</option>
+		<option value="vitd">Vitamine D</option>
+		<option value="prodfeeling">Gevoelswaarde</option>
+		<option value="prodhealty">Gezondheidswaarde</option>
+
+	</select>
+                                            
+</div>
+                                            <div id="filtersortMN" class="hidden">
+	
+                                                <select name="ctl00$ddlProdSortMN" id="ddlProdSortMN" disabled="disabled" class="aspNetDisabled ddlselect">
+		<option selected="selected" value="-1">-- kies sorteren --</option>
+		<option value="product">Voedingsmiddel</option>
+		<option value="minna">Natrium</option>
+		<option value="mink">Kalium</option>
+		<option value="minca">Calcium</option>
+		<option value="minp">Fosfor</option>
+		<option value="minfe">IJzer</option>
+		<option value="minmg">Magnesium</option>
+		<option value="mincu">Koper</option>
+		<option value="minzn">Zink</option>
+		<option value="prodfeeling">Gevoelswaarde</option>
+		<option value="prodhealty">Gezondheidswaarde</option>
+
+	</select>
+                                            
+</div>
+                                            <span id="rblSort" class="radiobuttons"><input id="rblSort_0" type="radio" name="ctl00$rblSort" value="desc" checked="checked" /><label for="rblSort_0">Aflopend</label><input id="rblSort_1" type="radio" name="ctl00$rblSort" value="asc" /><label for="rblSort_1">Oplopend</label></span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><span id="ctl00_lblFilShowper">Voedingswaarde</span></td>
+                                        <td>
+                                            <span id="rbl100PP" class="radiobuttons"><input id="rbl100PP_0" type="radio" name="ctl00$rbl100PP" value="100" checked="checked" /><label for="rbl100PP_0">per 100 gram</label><input id="rbl100PP_1" type="radio" name="ctl00$rbl100PP" value="pp" /><label for="rbl100PP_1">per portie</label></span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2">
+                                            <a id="ctl00_hplDelFilter" title="Verwijder filters" class="set set03 mobnodis" href="/voedingswaarde/"><span id="ctl00_lblDelFilter"><font color="White">Verwijder</font></span></a>&nbsp;
+                                            <button type="button" id="btnFilterApply" class="button hand">Filters verbergen</button>
+                                            <input type="submit" name="ctl00$btnFilterShow" value="Zoeken in de tabel" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnFilterShow&quot;, &quot;&quot;, true, &quot;searchprods&quot;, &quot;&quot;, false, false))" id="ctl00_btnFilterShow" class="button hand" />
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div class="clear"></div>
+                            
+                            
+                        </div>
+                        <div class="headerMid">
+                            <h1><span id="ctl00_lblPageTitleT">Voedingswaarde van</span></h1>
+                            <div class="sets">
+                                <div id="ctl00_set01" class="set set01">
+	
+                                    <a id="ctl00_hplBeginwaarde" title="Beginwaarde voedingswaardetabel / verwijdert alle filters" href="/voedingswaarde/"><span id="ctl00_lblset01">Beginwaarde</span></a>
+                                
+</div>
+                                <div id="ctl00_set02" class="set set02">
+	
+                                    <a id="ctl00_hplVoedingswaarde" title="Voedingswaarde" href="/voedingswaarde/"><span id="ctl00_lblset02">Voedingswaarde</span></a>
+                                
+</div>
+                                <div id="ctl00_set03" class="set set03">
+	
+                                    <a id="ctl00_hplVitamines" title="Vitamines" href="/voedingswaarde/vitamines/"><span id="ctl00_lblset03">Vitamines</span></a>
+                                
+</div>
+                                <div id="ctl00_set04" class="set set04">
+	
+                                    <a id="ctl00_hplMineralen" title="Mineralen" href="/voedingswaarde/mineralen/"><span id="ctl00_lblset04">Mineralen</span></a>
+                                
+</div>
+                            </div>
+                            <div class="h1bottomholder">
+                                <div class="hidright1"></div>
+                                <h1 class="h1bottom"><span id="ctl00_lblPageTitleB">Cola light</span></h1>
+                            </div>
+                        </div>
+                        <div class="headerRight">
+                            <a id="ctl00_hplCalcMBI" title="Body Mass Index voor volwassen en kinderen" href="/bereken/bmi/">
+                                <span class="underline">Body Mass Index</span>
+                                <img id="ctl00_imgCalcMBI" class="iconR" src="/_lib/img/icons/calculator.jpg" alt=" " /></a>
+                            <a id="ctl00_hplCalcEne" title="Energieverbruik" href="/bereken/energieverbruik/">
+                                <span class="underline">Energieverbruik</span>
+                                <img id="ctl00_imgCalcEne" class="iconR op70" src="/_lib/img/icons/calculator1.jpg" alt=" " /></a>
+                            <a id="ctl00_hplCalcCdb" title="Ruststofwisseling" class="mobnodis" href="/bereken/basaal-metabolisme-ratio/">
+                                <span class="underline mobnodis">Ruststofwisseling</span>
+                                <img id="ctl00_imgCalcCdb" class="iconR op40 mobnodis" src="/_lib/img/icons/calculator2.jpg" alt=" " /></a>
+                        </div>
+                    </div>
+                    <div class="smallText letterinfo">
+                        Toon voedingswaardetabel: <span id="ctl00_lblVW100" class="tblue"><a id="ctl00_hplVW100" title="Voedingswaarde per 100 gram" class="hplVW100" href="/voedingswaarde/">per 100 gram</a></span> | <span id="ctl00_lblVWpp" class="tgray"><a id="ctl00_hplVWpp" title="Voedingswaarde per portie" class="hplVWpp" href="/voedingswaarde/per-portie/">per portie</a></span>
+                        &nbsp;-&nbsp;
+                        Klik op de beginletter van het product:
+                    </div>
+                    <div class="lettersborder"></div>
+                    <div class="mobspano">
+                        <div id="ctl00_pnlHeaderLetters" class="headerLetters">
+	<a id="ctl00_hplLettersA" title="Voedingswaarde van voedingsmiddelen met de beginletter A" href="/voedingswaarde/">A</a><a id="ctl00_hplLettersB" title="Voedingswaarde van voedingsmiddelen met de beginletter B" href="/voedingswaarde/B/">B</a><a id="ctl00_hplLettersC" title="Voedingswaarde van voedingsmiddelen met de beginletter C" href="/voedingswaarde/C/">C</a><a id="ctl00_hplLettersD" title="Voedingswaarde van voedingsmiddelen met de beginletter D" href="/voedingswaarde/D/">D</a><a id="ctl00_hplLettersE" title="Voedingswaarde van voedingsmiddelen met de beginletter E" href="/voedingswaarde/E/">E</a><a id="ctl00_hplLettersF" title="Voedingswaarde van voedingsmiddelen met de beginletter F" href="/voedingswaarde/F/">F</a><a id="ctl00_hplLettersG" title="Voedingswaarde van voedingsmiddelen met de beginletter G" href="/voedingswaarde/G/">G</a><a id="ctl00_hplLettersH" title="Voedingswaarde van voedingsmiddelen met de beginletter H" href="/voedingswaarde/H/">H</a><a id="ctl00_hplLettersI" title="Voedingswaarde van voedingsmiddelen met de beginletter I" href="/voedingswaarde/I/">I</a><a id="ctl00_hplLettersJ" title="Voedingswaarde van voedingsmiddelen met de beginletter J" href="/voedingswaarde/J/">J</a><a id="ctl00_hplLettersK" title="Voedingswaarde van voedingsmiddelen met de beginletter K" href="/voedingswaarde/K/">K</a><a id="ctl00_hplLettersL" title="Voedingswaarde van voedingsmiddelen met de beginletter L" href="/voedingswaarde/L/">L</a><a id="ctl00_hplLettersM" title="Voedingswaarde van voedingsmiddelen met de beginletter M" href="/voedingswaarde/M/">M</a><a id="ctl00_hplLettersN" title="Voedingswaarde van voedingsmiddelen met de beginletter N" href="/voedingswaarde/N/">N</a><a id="ctl00_hplLettersO" title="Voedingswaarde van voedingsmiddelen met de beginletter O" href="/voedingswaarde/O/">O</a><a id="ctl00_hplLettersP" title="Voedingswaarde van voedingsmiddelen met de beginletter P" href="/voedingswaarde/P/">P</a><a id="ctl00_hplLettersQ" title="Voedingswaarde van voedingsmiddelen met de beginletter Q" href="/voedingswaarde/Q/">Q</a><a id="ctl00_hplLettersR" title="Voedingswaarde van voedingsmiddelen met de beginletter R" href="/voedingswaarde/R/">R</a><a id="ctl00_hplLettersS" title="Voedingswaarde van voedingsmiddelen met de beginletter S" href="/voedingswaarde/S/">S</a><a id="ctl00_hplLettersT" title="Voedingswaarde van voedingsmiddelen met de beginletter T" href="/voedingswaarde/T/">T</a><a id="ctl00_hplLettersU" title="Voedingswaarde van voedingsmiddelen met de beginletter U" href="/voedingswaarde/U/">U</a><a id="ctl00_hplLettersV" title="Voedingswaarde van voedingsmiddelen met de beginletter V" href="/voedingswaarde/V/">V</a><a id="ctl00_hplLettersW" title="Voedingswaarde van voedingsmiddelen met de beginletter W" href="/voedingswaarde/W/">W</a><a id="ctl00_hplLettersX" title="Voedingswaarde van voedingsmiddelen met de beginletter X" href="/voedingswaarde/X/">X</a><a id="ctl00_hplLettersY" title="Voedingswaarde van voedingsmiddelen met de beginletter Y" href="/voedingswaarde/Y/">Y</a><a id="ctl00_hplLettersZ" title="Voedingswaarde van voedingsmiddelen met de beginletter Z" href="/voedingswaarde/Z/">Z</a>
+</div>
+                    </div>
+                    <div class="lettersborder"></div>
+                </div>
+                <div id="headerprint">
+                    <img src="/_lib/img/header.jpg" alt="" />
+                    <span id="ctl00_lblHeaderPrintName" class="headerprintname"></span>
+                </div>
+                <div id="body">
+                    
+    <div class="contentMain">
+        <div class="ContainerMainText">
+	        <div class="ContainerColumns">
+		        <div class="ColumnLeft">
+                    <div id="ctl00_cphMain_pnlShowProd">
+	
+                        <div id="ctl00_cphMain_pnlButtonsProd" class="prodbuttons paddingmob mobnodis">
+		
+                            <input type="submit" name="ctl00$cphMain$btnProdView" value="Overzicht" id="ctl00_cphMain_btnProdView" title="Toon voedingswaardetabel" class="buttongreen hand myb10" />
+                            
+                            
+                            
+                            
+                            
+                            
+                            <input type="submit" name="ctl00$cphMain$btnProdComPromo" value="Vergelijken" id="ctl00_cphMain_btnProdComPromo" class="buttongreen hand myb10" />
+                            <input type="submit" name="ctl00$cphMain$btnProdVotePromo" value="Waarderen" id="ctl00_cphMain_btnProdVotePromo" class="buttongreen hand myb10" />
+                            <input type="submit" name="ctl00$cphMain$btnProdFavPromo" value="Favoriet" id="ctl00_cphMain_btnProdFavPromo" class="buttongreen hand myb10" />
+                            
+                        
+	</div>
+                        <div id="ctl00_cphMain_pnlBigImgHolder" class="prodimgholder">
+		
+                            <div id="ctl00_cphMain_pnlBigImgOverlay" class="prodimgbigoverlay">
+
+		</div>
+                            <img id="ctl00_cphMain_imgProd" title="Cola light" class="prodbigimg" src="/_lib/img/prod/big/colalight.jpg" alt="Cola light" height="360" width="360" />
+                        
+	</div>
+                        <h2>Cola light</h2>
+                        <div class="floatright"><span class="smallText">Portie:</span><br /><span id="ctl00_cphMain_lblShowPrdGp"><a href="#prodgramsanchor" title="Bekijk de voedingswaarde per portie"><span class="hand" id="gppw"><span id="gpp">200</span> gram <img src="/_lib/img/icons/icon_bullet_arrow_down.gif" alt="" class="icon" /></span></a></span></div>
+                        <span class="smallText">Latijnse naam:</span><br />-
+                    
+</div>
+
+                    
+                    <p>&nbsp;</p>
+                    
+                    <div id="ctl00_cphMain_pnlFieldsetVW">
+	
+                        <div class="divfieldset" id="prodgramsanchor">
+                            <div id="pnlGramSlider" class="sliderProd">
+		
+                                <div id="Pnlgrams" class="slidertext">
+			
+                                    <span id="lblGrams">Weergave per 100 gram</span>
+                                
+		</div>
+                                <div class="sliderholderExtra">
+                                    <div class="slidedown"><img src="/_lib/img/slidedown.jpg" id="imgGramsDown" alt="" class="hand" /></div>
+                                    <div class="slidemidExtra"><div id="slidergrams"></div></div>
+                                    <div class="slideup"><img src="/_lib/img/slideup.jpg" id="imgGramsUp" alt="" class="hand" /></div>
+                                </div>
+                            
+	</div>
+                            <h2>Algemeen</h2>
+                            <div class="rowitem">Gevoelswaarde: <a id="ctl00_cphMain_hplInfoProdFeel" title="Lees meer over de onderzoekswaarde" href="/watiswat/onderzoekswaarde/"> <img src="/_lib/img/pixel.gif" class="iconset iconsetl icon_info" /></a> <div class="floatright">5,2</div></div>
+                            <div class="rowitem">Gezondheidswaarde: <a id="ctl00_cphMain_hplInfoProdHealthy" title="Lees meer over de onderzoekswaarde" href="/watiswat/onderzoekswaarde/"> <img src="/_lib/img/pixel.gif" class="iconset iconsetl icon_info" /></a> <div class="floatright">4,3</div></div>
+                            <div class="rowitem">Productgroep: <div class="floatright"><a id="ctl00_cphMain_hplPrdGrp" title="Bekijk de voedingswaarde uit de productgroep Dranken" href="../?c=24"><span style="color:#000">Dranken</span> <img src="/_lib/img/icons/icon_bullet_arrow_right.gif" alt="" class="icon" /></a></div></div>
+
+                            <p>&nbsp;</p>
+                            <h2>Energie</h2>
+                            <div class="rowitem">Energie (kcal) <div class="floatright"><span id="lblKcal">1</span> kcal</div></div>
+                            <div class="rowitem">Energie (kJoule) <div class="floatright"><span id="lblKjoule">5</span> kJoule</div></div>
+                            <p>&nbsp;</p>
+                            <h2 class="cBlue">Voedingswaarde</h2>
+                            <div class="rowitem">Water <div class="floatright"><span id="lblWater">98,7</span> g</div></div>
+                            <div class="rowitem">Eiwit <div class="floatright"><span id="lblEiwit">0,0</span> g</div></div>
+                            <div class="rowitem">Vet <div class="floatright"><span id="lblVet">0,0</span> g</div></div>
+                            <div class="rowitem">&nbsp;&nbsp;&nbsp;Waarvan verzadigd vet<div class="floatright"><span id="lblVerz">0,0</span> g</div></div>
+                            <div class="rowitem">&nbsp;&nbsp;&nbsp;Waarvan enkelvoudig onverzadigd vet<div class="floatright"><span id="lblEov">0,0</span> g</div></div>
+                            <div class="rowitem">&nbsp;&nbsp;&nbsp;Waarvan meervoudig onverzadigd vet<div class="floatright"><span id="lblMov">0,0</span> g</div></div>
+                            <div class="rowitem">Cholesterol <div class="floatright"><span id="lblChol">0,0</span> mg</div></div>
+                            <div class="rowitem">Koolhydraten <div class="floatright"><span id="lblKoolh">0,3</span> g</div></div>
+                            <div class="rowitem">&nbsp;&nbsp;&nbsp;Waarvan suikers <div class="floatright"><span id="lblSuikers">0,0</span> g</div></div>
+                            <div class="rowitem">Voedingsvezels <div class="floatright"><span id="lblVoedv">0,0</span> g</div></div>
+                            <p>&nbsp;</p>
+                            <div id="ctl00_cphMain_pnlVitMin" style="position:relative;">
+                                <div id="ctl00_cphMain_pnlNotLogged" class="notlogged">
+		
+                                    
+<p>
+    Je bent niet aangemeld. Om gebruik te kunnen maken van alle informatie die de site Voedingswaardetabel.nl biedt, moet je een account hebben.
+    Meld je aan voor een account.
+</p>
+<p>
+    <a href="/leden/login/">Aanmelden</a> | <a href="/leden/registreren/">Registreren</a> | <a href="/faq/">Waarom blur</a>
+</p>
+                                
+	</div>
+                                <h2 class="cOrange">Vitamines</h2>
+                                <div class="rowitem">Vitamine A (Retinol) <div class="floatright"><span id="lblVitA" class="blur">0,00</span> mg</div></div>
+                                <div class="rowitem">Vitamine B1 (Thiamine) <div class="floatright"><span id="lblVitB1" class="blur">0,00</span> mg</div></div>
+                                <div class="rowitem">Vitamine b2 (Riboflavine)<div class="floatright"><span id="lblVitB2" class="blur">0,00</span> mg</div></div>
+                                <div class="rowitem">Vitamine B6 (Pyridoxine) <div class="floatright"><span id="lblVitB6" class="blur">0,00</span> mg</div></div>
+                                <div class="rowitem">Vitamine B11 (Foliumzuur) <div class="floatright"><span id="lblVitB11" class="blur">0</span> µg</div></div>
+                                <div class="rowitem">Vitamine B12 (Cobalamine) <div class="floatright"><span id="lblVitB12" class="blur">0,00</span> µg</div></div>
+                                <div class="rowitem">Vitamine C (Ascorbinezuur) <div class="floatright"><span id="lblVitC" class="blur">0,0</span> mg</div></div>
+                                <div class="rowitem">Vitamine D (Calcifine) <div class="floatright"><span id="lblVitD" class="blur">0,0</span> µg</div></div>
+                                <p>&nbsp;</p>
+                                <h2 class="cRed">Mineralen</h2>
+                                <div class="rowitem">Natrium (Na) <div class="floatright"><span id="lblMinNa" class="blur">3</span> mg</div></div>
+                                <div class="rowitem">Kalium (K) <div class="floatright"><span id="lblMinK" class="blur">2</span> mg</div></div>
+                                <div class="rowitem">Calcium (Ca) <div class="floatright"><span id="lblMinCa" class="blur">5,0</span> mg</div></div>
+                                <div class="rowitem">Fosfor (P) <div class="floatright"><span id="lblMinP" class="blur">10,0</span> mg</div></div>
+                                <div class="rowitem">IJzer (Fe) <div class="floatright"><span id="lblMinFe" class="blur">0,0</span> mg</div></div>
+                                <div class="rowitem">Magnesium (Mg) <div class="floatright"><span id="lblMinMg" class="blur">1,00</span> mg</div></div>
+                                <div class="rowitem">Koper (Cu) <div class="floatright"><span id="lblMinCu" class="blur">0,00</span> mg</div></div>
+                                <div class="rowitem">Zink (Zn) <div class="floatright"><span id="lblMinZn" class="blur">0,00</span> mg</div></div>
+                            </div>
+                        </div>
+                        <div class="fieldset_shadow"></div>
+                    
+</div>
+                </div>
+                <div class="ColumnRight">
+                    <h2>Voedingswaarde cola light</h2><p>Bekijk de belangrijkste voedingswaarden van cola light. In een onderstaande tabel staan de hoeveelheden kcal, eiwitten, vetten, koolhydraten, vitamines en mineralen weergegeven. De standaardwaarden voor cola light worden in 100 gram weergegeven. Je kunt ook een andere waarde opgeven tussen de 1 en 500 gram om daarvan de voedingswaarde te laten berekenen. Dit kan je doen door onderstaande schuifbalk te bewegen. Een portie cola light komt overeen met 200 gram.</p>
+                    
+                        <div class="paddingmob">
+                            <p>Bekijk hoeveel suiker en vet in cola light zit per 100 gram ten opzichte van de ADH van een volwassen persoon.</p>
+                            <h2>Suiker (0% van de ADH)</h2>
+                            <div id="ctl00_cphMain_pnlVisContSugar" title="0,0 g. suiker per 100 gram (0% van de ADH)" class="viscont">
+	
+                                <div class="vissugar"></div>
+                                <div id="ctl00_cphMain_pnlVisSugar" class="visoverl" style="width:220px;left:0px;">
+
+	</div>
+                            
+</div>
+                            <h2>Vet (0% van de ADH)</h2>
+                            <div id="ctl00_cphMain_pnlVisContFat" title="0,0 g. vet per 100 gram. (0% van de ADH)" class="viscont">
+	
+                                <div class="visfat"></div>
+                                <div id="ctl00_cphMain_pnlVisFats" class="visoverl" style="width:220px;left:0px;">
+
+	</div>
+                            
+</div>
+                            <h2>PRAL-waarde<a id="ctl00_cphMain_hplCalPral" href="/bereken/pral/"> <img src="/_lib/img/pixel.gif" class="iconset iconsetl icon_info" /></a></h2>
+                            <div class="viscont">
+                                <span id="lblProdPral">+0,2</span>
+                            </div>
+                        </div>
+                        
+
+
+
+
+
+<div id="ctl00_cphMain_gAmWhiteMid_pnlL3x2rigth" class="amblockL3x2">
+	
+    
+    <div id="pnlL3x2rigtham" class="am-bb">
+		
+        <style>
+            .am-bb {width:336px;height:280px;}
+            @media(max-width:767px) {.am-bb {width:320px;height:250px;margin:-10px 0 0 0;}}
+        </style>
+        <!-- /13436254/Voedingswaardetabel_Incontent -->
+        <div id="div-gpt-ad-1546418735648-0" data-offset="300" class="massarius-dfp-unit"></div>
+    
+	</div>
+
+</div>
+
+
+
+                    
+                    
+
+                    
+                        <div class="mobnodis"><h2>Meest bekeken voedingsmiddelen uit de productgroep dranken</h2></div>
+                    
+                    <div id="ctl00_cphMain_pnlVwtContainer" class="vwtContainer mobnodis">
+	
+                        
+                                
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlSortingExtra" class="SortingExtra">
+		<div id="ctl00_cphMain_ltvMoreProds_ctrl0_extraRowW0" class="vwRowExtra">
+			<div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlUnitWordEmpty0" class="rowUnitWordEmpty">
+
+			</div><div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlUnitWords0">
+				<div id="ctl00_cphMain_ltvMoreProds_ctrl0_unitwordW0" class="rowUnitWord">
+					<img id="ctl00_cphMain_ltvMoreProds_ctrl0_imgunitW0" title="Kcal" src="/_lib/img/vwt/vw/kcal.png" alt="Kcal" />
+				</div><div id="ctl00_cphMain_ltvMoreProds_ctrl0_unitwordW1" class="rowUnitWord">
+					<img id="ctl00_cphMain_ltvMoreProds_ctrl0_imgunitW1" title="Kjoule" src="/_lib/img/vwt/vw/kjoule.png" alt="Kjoule" />
+				</div>
+			</div>
+		</div><div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlUnit0" class="rowUnit">
+			<div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlUnitPer0" class="vwtProdNameUnit">
+				<span id="ctl00_cphMain_ltvMoreProds_ctrl0_lblValue0">Eenheid per 100 g</span>
+			</div><div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlUnits0">
+				<div id="ctl00_cphMain_ltvMoreProds_ctrl0_unit0" class="rowUnitBorder">
+					<span title="kilocalorieën">kcal</span>
+				</div><div id="ctl00_cphMain_ltvMoreProds_ctrl0_unit1" class="rowUnitBorder">
+					<span title="kilojoules">kJ</span>
+				</div><div id="ctl00_cphMain_ltvMoreProds_ctrl0_unit3" class="rowUnitWordExtra">
+					<img id="ctl00_cphMain_ltvMoreProds_ctrl0_imgunitU3" title="Gevoelswaarde" class="imgExtra" src="../../_lib/img/vwt/vw/prodfeeling.png" alt="prodFeeling" /><span></span>
+				</div><div id="ctl00_cphMain_ltvMoreProds_ctrl0_unit4" class="rowUnitWordExtra">
+					<img id="ctl00_cphMain_ltvMoreProds_ctrl0_imgunitU4" title="Gezondheidswaarde" class="imgExtra" src="../../_lib/img/vwt/vw/prodhealty.png" alt="prodHealty" /><span></span>
+				</div>
+			</div>
+		</div>
+	</div>
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlRowContainer" class="vwRow">
+		
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlProdName" class="vwtProdName">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl0_lblprodName" class="vwtProdNameLink"></span><a id="ctl00_cphMain_ltvMoreProds_ctrl0_hplProdname0" title="Voedingswaarde van koffie, zwart" class="prodNameLink" href="./?id=720">Koffie, zwart</a>
+		</div>
+                                    <span id="ctl00_cphMain_ltvMoreProds_ctrl0_lblProd_pk"></span>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlKcal" title="Kcal (kcal)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl0_lblKcal">0</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlKjoule" title="Kjoule (kJ)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl0_lblKjoule">0</span>
+		</div>
+                                    
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlProdSpacer" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlFeeling" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl0_lblFeeling">6,7</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlSpacer1" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl0_pnlHealty" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl0_lblHealty">5,5</span><img id="ctl00_cphMain_ltvMoreProds_ctrl0_prodImg4" title="Koffie, zwart" class="prodImgB1" src="/_lib/img/prod/koffiezwart.jpg" alt="Koffie, zwart" /><img id="ctl00_cphMain_ltvMoreProds_ctrl0_prodImgHolder4" title="Koffie, zwart" class="prodImgHolderB1" src="../../_lib/img/vwprodImgBig1.png" alt="Koffie, zwart" />
+		</div>
+                                
+	</div>
+                            
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl1_pnlSortingExtra" class="SortingExtra">
+
+	</div>
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl1_pnlRowContainer" class="vwRow1">
+		
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl1_pnlProdName" class="vwtProdName">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl1_lblprodName" class="vwtProdNameLink"></span><a id="ctl00_cphMain_ltvMoreProds_ctrl1_hplProdname1" title="Voedingswaarde van cola" class="prodNameLink" href="./?id=1024">Cola</a>
+		</div>
+                                    <span id="ctl00_cphMain_ltvMoreProds_ctrl1_lblProd_pk"></span>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl1_pnlKcal" title="Kcal (kcal)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl1_lblKcal">44</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl1_pnlKjoule" title="Kjoule (kJ)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl1_lblKjoule">187</span>
+		</div>
+                                    
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl1_pnlProdSpacer" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl1_pnlFeeling" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl1_lblFeeling">6,3</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl1_pnlSpacer1" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl1_pnlHealty" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl1_lblHealty">3,4</span>
+		</div>
+                                
+	</div>
+                            
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl2_pnlSortingExtra" class="SortingExtra">
+
+	</div>
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl2_pnlRowContainer" class="vwRow">
+		
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl2_pnlProdName" class="vwtProdName">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl2_lblprodName" class="vwtProdNameLink"></span><a id="ctl00_cphMain_ltvMoreProds_ctrl2_hplProdname2" title="Voedingswaarde van sinaasappelsap" class="prodNameLink" href="./?id=854">Sinaasappelsap</a>
+		</div>
+                                    <span id="ctl00_cphMain_ltvMoreProds_ctrl2_lblProd_pk"></span>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl2_pnlKcal" title="Kcal (kcal)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl2_lblKcal">45</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl2_pnlKjoule" title="Kjoule (kJ)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl2_lblKjoule">189</span>
+		</div>
+                                    
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl2_pnlProdSpacer" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl2_pnlFeeling" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl2_lblFeeling">8,4</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl2_pnlSpacer1" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl2_pnlHealty" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl2_lblHealty">8,4</span>
+		</div>
+                                
+	</div>
+                            
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl3_pnlSortingExtra" class="SortingExtra">
+
+	</div>
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl3_pnlRowContainer" class="vwRow1">
+		
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl3_pnlProdName" class="vwtProdName">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl3_lblprodName" class="vwtProdNameLink"></span><a id="ctl00_cphMain_ltvMoreProds_ctrl3_hplProdname3" title="Voedingswaarde van jus d&#39;orange" class="prodNameLink" href="./?id=557">Jus d'orange</a>
+		</div>
+                                    <span id="ctl00_cphMain_ltvMoreProds_ctrl3_lblProd_pk"></span>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl3_pnlKcal" title="Kcal (kcal)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl3_lblKcal">47</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl3_pnlKjoule" title="Kjoule (kJ)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl3_lblKjoule">198</span>
+		</div>
+                                    
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl3_pnlProdSpacer" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl3_pnlFeeling" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl3_lblFeeling"></span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl3_pnlSpacer1" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl3_pnlHealty" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl3_lblHealty"></span>
+		</div>
+                                
+	</div>
+                            
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl4_pnlSortingExtra" class="SortingExtra">
+
+	</div>
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl4_pnlRowContainer" class="vwRow">
+		
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl4_pnlProdName" class="vwtProdName">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl4_lblprodName" class="vwtProdNameLink"></span><a id="ctl00_cphMain_ltvMoreProds_ctrl4_hplProdname4" title="Voedingswaarde van koffie met melk" class="prodNameLink" href="./?id=1168">Koffie met melk</a>
+		</div>
+                                    <span id="ctl00_cphMain_ltvMoreProds_ctrl4_lblProd_pk"></span>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl4_pnlKcal" title="Kcal (kcal)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl4_lblKcal">10</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl4_pnlKjoule" title="Kjoule (kJ)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl4_lblKjoule">44</span>
+		</div>
+                                    
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl4_pnlProdSpacer" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl4_pnlFeeling" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl4_lblFeeling">6,6</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl4_pnlSpacer1" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl4_pnlHealty" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl4_lblHealty">5,3</span>
+		</div>
+                                
+	</div>
+                            
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl5_pnlSortingExtra" class="SortingExtra">
+
+	</div>
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl5_pnlRowContainer" class="vwRow1">
+		
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl5_pnlProdName" class="vwtProdName">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl5_lblprodName" class="vwtProdNameLink"></span><a id="ctl00_cphMain_ltvMoreProds_ctrl5_hplProdname5" title="Voedingswaarde van chocolademelk, halfvolle" class="prodNameLink" href="./?id=196">Chocolademelk, halfvolle</a>
+		</div>
+                                    <span id="ctl00_cphMain_ltvMoreProds_ctrl5_lblProd_pk"></span>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl5_pnlKcal" title="Kcal (kcal)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl5_lblKcal">79</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl5_pnlKjoule" title="Kjoule (kJ)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl5_lblKjoule">328</span>
+		</div>
+                                    
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl5_pnlProdSpacer" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl5_pnlFeeling" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl5_lblFeeling">6,4</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl5_pnlSpacer1" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl5_pnlHealty" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl5_lblHealty">5,2</span>
+		</div>
+                                
+	</div>
+                            
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl6_pnlSortingExtra" class="SortingExtra">
+
+	</div>
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl6_pnlRowContainer" class="vwRow">
+		
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl6_pnlProdName" class="vwtProdName">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl6_lblprodName" class="vwtProdNameLink"></span><a id="ctl00_cphMain_ltvMoreProds_ctrl6_hplProdname6" title="Voedingswaarde van kokosnootmelk, blik" class="prodNameLink" href="./?id=43">Kokosnootmelk, blik</a>
+		</div>
+                                    <span id="ctl00_cphMain_ltvMoreProds_ctrl6_lblProd_pk"></span>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl6_pnlKcal" title="Kcal (kcal)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl6_lblKcal">208</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl6_pnlKjoule" title="Kjoule (kJ)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl6_lblKjoule">872</span>
+		</div>
+                                    
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl6_pnlProdSpacer" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl6_pnlFeeling" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl6_lblFeeling">5,7</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl6_pnlSpacer1" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl6_pnlHealty" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl6_lblHealty">5,6</span>
+		</div>
+                                
+	</div>
+                            
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl7_pnlSortingExtra" class="SortingExtra">
+
+	</div>
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl7_pnlRowContainer" class="vwRow1">
+		
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl7_pnlProdName" class="vwtProdName">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl7_lblprodName" class="vwtProdNameLink"></span><a id="ctl00_cphMain_ltvMoreProds_ctrl7_hplProdname7" title="Voedingswaarde van citroensap, vers" class="prodNameLink" href="./?id=932">Citroensap, vers</a>
+		</div>
+                                    <span id="ctl00_cphMain_ltvMoreProds_ctrl7_lblProd_pk"></span>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl7_pnlKcal" title="Kcal (kcal)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl7_lblKcal">32</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl7_pnlKjoule" title="Kjoule (kJ)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl7_lblKjoule">136</span>
+		</div>
+                                    
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl7_pnlProdSpacer" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl7_pnlFeeling" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl7_lblFeeling">6,7</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl7_pnlSpacer1" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl7_pnlHealty" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl7_lblHealty">7,6</span><img id="ctl00_cphMain_ltvMoreProds_ctrl7_prodImg4" title="Citroensap, vers" class="prodImgB1" src="/_lib/img/prod/citroensap.jpg" alt="Citroensap, vers" /><img id="ctl00_cphMain_ltvMoreProds_ctrl7_prodImgHolder4" title="Citroensap, vers" class="prodImgHolderB1" src="../../_lib/img/vwprodImgBig1.png" alt="Citroensap, vers" />
+		</div>
+                                
+	</div>
+                            
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl8_pnlSortingExtra" class="SortingExtra">
+
+	</div>
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl8_pnlRowContainer" class="vwRow">
+		
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl8_pnlProdName" class="vwtProdName">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl8_lblprodName" class="vwtProdNameLink"></span><a id="ctl00_cphMain_ltvMoreProds_ctrl8_hplProdname8" title="Voedingswaarde van appelsap" class="prodNameLink" href="./?id=613">Appelsap</a>
+		</div>
+                                    <span id="ctl00_cphMain_ltvMoreProds_ctrl8_lblProd_pk"></span>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl8_pnlKcal" title="Kcal (kcal)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl8_lblKcal">42</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl8_pnlKjoule" title="Kjoule (kJ)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl8_lblKjoule">180</span>
+		</div>
+                                    
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl8_pnlProdSpacer" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl8_pnlFeeling" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl8_lblFeeling">6,7</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl8_pnlSpacer1" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl8_pnlHealty" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl8_lblHealty">7,0</span>
+		</div>
+                                
+	</div>
+                            
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl9_pnlSortingExtra" class="SortingExtra">
+
+	</div>
+                                <div id="ctl00_cphMain_ltvMoreProds_ctrl9_pnlRowContainer" class="vwRow1">
+		
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl9_pnlProdName" class="vwtProdName">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl9_lblprodName" class="vwtProdNameLink"></span><a id="ctl00_cphMain_ltvMoreProds_ctrl9_hplProdname9" title="Voedingswaarde van tomatensap" class="prodNameLink" href="./?id=83">Tomatensap</a>
+		</div>
+                                    <span id="ctl00_cphMain_ltvMoreProds_ctrl9_lblProd_pk"></span>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl9_pnlKcal" title="Kcal (kcal)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl9_lblKcal">18</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl9_pnlKjoule" title="Kjoule (kJ)" class="vwtItem">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl9_lblKjoule">78</span>
+		</div>
+                                    
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl9_pnlProdSpacer" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl9_pnlFeeling" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl9_lblFeeling">6,1</span>
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl9_pnlSpacer1" class="vwtItemSpacer">
+
+		</div>
+                                    <div id="ctl00_cphMain_ltvMoreProds_ctrl9_pnlHealty" class="vwtItemExtra">
+			<span id="ctl00_cphMain_ltvMoreProds_ctrl9_lblHealty">7,7</span>
+		</div>
+                                
+	</div>
+                            
+                            
+                    
+</div>
+
+                    <div id="ctl00_cphMain_pnlProd2Move" class="prod2move">
+	
+                        <h2 class="prod2moveh2">
+                            <span id="ctl00_cphMain_lblProd2Move1">Wat moet ik doen om </span>
+                            <span id="ctl00_cphMain_lblProd2Move2"> (200 gram) </span>
+                            <span id="ctl00_cphMain_lblProd2Move3">cola light</span>
+                            <span id="ctl00_cphMain_lblProd2Move4"> te verbranden? *</span>
+                        </h2>
+                        <div id="pnlInnerProd2Move" class="pnlInnerProd2Move">
+		<div id="ctl00_cphMain_prod2moveContainer1" class="prod2moveContainer">
+			<div class="prod2movebg">
+				<span id="ctl00_cphMain_lblactName1" class="prod2movename">Zitten, tv kijken</span><span id="ctl00_cphMain_lblactTime1" class="prod2movetime">1</span>
+			</div><div class="prod2movebg">
+				<span id="ctl00_cphMain_lblactName2" class="prod2movename">Fietsen (15 km/uur)</span><span id="ctl00_cphMain_lblactTime2" class="prod2movetime">0</span>
+			</div><div class="prod2movebg">
+				<span id="ctl00_cphMain_lblactName3" class="prod2movename">Wandelen (5 km/uur)</span><span id="ctl00_cphMain_lblactTime3" class="prod2movetime">0</span>
+			</div>
+		</div><div id="ctl00_cphMain_prod2moveContainer2" class="prod2moveContainer">
+			<div class="prod2movebg">
+				<span id="ctl00_cphMain_lblactName4" class="prod2movename">Hardlopen (11 km / uur)</span><span id="ctl00_cphMain_lblactTime4" class="prod2movetime">0</span>
+			</div><div class="prod2movebg">
+				<span id="ctl00_cphMain_lblactName5" class="prod2movename">Paardrijden</span><span id="ctl00_cphMain_lblactTime5" class="prod2movetime">0</span>
+			</div><div class="prod2movebg">
+				<span id="ctl00_cphMain_lblactName6" class="prod2movename">Voetbal</span><span id="ctl00_cphMain_lblactTime6" class="prod2movetime">0</span>
+			</div>
+		</div><div id="ctl00_cphMain_prod2moveContainer3" class="prod2moveContainer">
+			<div class="prod2movebg">
+				<span id="ctl00_cphMain_lblactName7" class="prod2movename">Stofzuigen</span><span id="ctl00_cphMain_lblactTime7" class="prod2movetime">1</span>
+			</div><div class="prod2movebg">
+				<span id="ctl00_cphMain_lblactName8" class="prod2movename">Strijken</span><span id="ctl00_cphMain_lblactTime8" class="prod2movetime">1</span>
+			</div><div class="prod2movebg">
+				<span id="ctl00_cphMain_lblactName9" class="prod2movename">Wassen</span><span id="ctl00_cphMain_lblactTime9" class="prod2movetime">1</span>
+			</div>
+		</div>
+	</div>
+                        <span class="smallText">* Tijden zijn berekend met een gewicht van  75,0 kilogram.</span>
+                        <div class="prod2movecontrols">
+                            <img id="imgProd2MoveNext" class="hand" src="/_lib/img/icons/icon_next_green.png" align="right" />
+                            <img id="imgProd2MoveBack" class="hand" src="/_lib/img/icons/icon_back_green.png" align="left" />
+                        </div>
+                        <input type="hidden" name="ctl00$cphMain$maxacts" id="maxacts" value="3" />
+                    
+</div>
+
+                </div>
+            </div>
+        </div>
+        
+
+<div id="ctl00_cphMain_gAmIncontent_pnlL7x9Mid" class="amblockL7x9m">
+	
+    
+    <div id="pnlL7x9Midam" class="am-bm">
+		
+        <style>
+            .am-bm {width:728px;}
+            /*@media(max-width:767px) {.am-bm {width:320px;height:100px;margin:-10px 0 0 0;}}*/
+        </style>
+        <!-- /13436254/Voedingswaardetabel_InArticle -->
+        <div id='div-gpt-ad-1546418768341-0'>
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1546418768341-0'); });
+            </script>
+        </div>
+    
+	</div>
+
+</div>
+
+
+
+
+
+
+        <div id="ctl00_cphMain_BottomLinks_bottomlinks" class="bottomlinks">
+	
+
+    <div id="ctl00_cphMain_BottomLinks_pnlBottomGoTop" class="pnlgotop">
+		
+        <a href="#top"><img id="ctl00_cphMain_BottomLinks_imgBlTop" title="Naar top" src="/_lib/img/icons/icon_bullet_arrow_top.png" alt="Naar top" /></a>
+    
+	</div>
+    
+    <div id="ctl00_cphMain_BottomLinks_pnlHome">
+		
+        <a id="ctl00_cphMain_BottomLinks_hplHome01" title="Voedingswaardetabel" href="/">Home</a> |
+        <a id="ctl00_cphMain_BottomLinks_hplHome02" title="Voedingswaardetabel per 100 gram" href="/voedingswaarde/">Voedingswaarde</a> |
+        <a id="ctl00_cphMain_BottomLinks_hplHome03" title="Voedingswaardetabel per portie" href="/voedingswaarde/per-portie/">Voedingswaarde per portie</a> |
+        <a id="ctl00_cphMain_BottomLinks_hplHome04" title="Top 10 gezondste producten" href="/voedingswaarde/top10/">Top 10</a> |
+        <a id="ctl00_cphMain_BottomLinks_hplHome05" title="Over voedingswaardetabel" href="/over/">Over / Wie is?</a> |
+        <a id="ctl00_cphMain_BottomLinks_hplHome07" title="Bereken" href="/bereken/">Bereken</a> |
+        <a id="ctl00_cphMain_BottomLinks_hplHome08" title="Veel gestelde vragen" href="/faq/">Faq</a> |
+        <a id="ctl00_cphMain_BottomLinks_hplHome09" title="Waardevolle links naar andere websites" href="/links/">Links</a> |
+        <a id="ctl00_cphMain_BottomLinks_hplHome06" title="(W)etenswaardigheden en nieuws" href="/nieuws/">Nieuws</a> |
+        <a id="ctl00_cphMain_BottomLinks_hplHome10" title="Boeken" href="/boeken/">Boeken</a> |
+        <a id="ctl00_cphMain_BottomLinks_hplHome11" title="Voedingswaardetabel App" href="/app/">App</a>
+    
+	</div>
+
+    
+
+    
+
+    
+
+    
+
+
+    
+
+
+</div>
+    </div>
+    <input type="hidden" name="ctl00$cphMain$hdfMetricText" id="ctl00_cphMain_hdfMetricText" value="Eenheid per 100 g" />
+    <input type="hidden" name="ctl00$cphMain$hdfSortingText" id="ctl00_cphMain_hdfSortingText" value="Sorteren" />
+    <input type="hidden" name="ctl00$cphMain$initvalue" id="initvalue" value="100" />
+    <input type="hidden" name="ctl00$cphMain$hdfShowp1" id="hdfShowp1" value="Weergave per" />
+    <input type="hidden" name="ctl00$cphMain$hdfShowp2" id="hdfShowp2" value="gram" />
+    <input type="hidden" name="ctl00$cphMain$hdfvwmetric" id="hdfvwmetric" value="Eenheid per" />
+    <input type="hidden" name="ctl00$cphMain$hdfProdGram" id="hdfProdGram" value="100" />
+    <input type="hidden" name="ctl00$cphMain$hdfMemFGrp" id="hdfMemFGrp" />
+    
+    
+
+                    
+                    <div id="footerprint">
+                        <img id="ctl00_imgVwtFooterPrint" class="icon" src="../../_lib/img/stripes-small.png" alt=" " />
+                        &copy; <span id="ctl00_lblFooterBottomYearPrint">Voedingswaardetabel.nl</span>
+                    </div>
+                </div>
+                <div id="footer">
+                    <div class="amgray">
+                        
+
+
+
+<div id="ctl00_gAmGrayBottom_pnlL7x9Bottom" class="amblockL7x9b">
+	
+    
+    <div id="pnlL7x9Bottomam" class="am-fb">
+		
+        <style>
+            .am-fb {width:970px;}
+            @media(max-width:767px) {.am-fb {width:320px}}
+        </style>
+        <!-- /13436254/Voedingswaardetabel_Bottom -->
+        <div id="div-gpt-ad-1546418814619-0" data-offset="300" class="massarius-dfp-unit"></div>
+    
+	</div>
+
+</div>
+
+
+
+
+                    </div>
+                    <div class="footerBottom">
+                        <img id="ctl00_imgVwtFooter" class="icon" src="../../_lib/img/stripes-small.png" alt=" " />
+                        &copy; <span id="ctl00_lblFooterBottomYear">2019</span>
+                        <a id="ctl00_hplFooterBottomVW" title="Voedingswaarde" href="/">Voedingswaardetabel.nl</a> |
+                        <a id="ctl00_hplFooterBottomDisc" title="Disclaimer" href="/disclaimer/">Disclaimer</a> |
+                        <a id="ctl00_hplFooterBottomSite" title="Sitemap" href="/sitemap/">Sitemap</a> |
+                        <a id="ctl00_hplFooterBottomCont" title="Contact" href="/contact/">Contact</a> |
+                        <a id="ctl00_hplFooterBottomJAgd" title="Design by JAgd graphic design" href="http://www.jagd.nl" target="_blank">Graphic design by JAgd</a> |
+                        <a id="ctl00_hplFooterBottomSeo" title="Hosting &amp;amp; webdesign by Seoptics" href="http://www.seoptics.nl" target="_blank">Hosting &amp; webdesign by Seoptics</a> |
+                        
+
+
+
+
+
+
+
+<a href="https://www.voedingswaardetabel.nl/leden/registreren/" target="_blank" title="Account maken">Account maken</a> |
+                        <a href="https://www.voedingswaardetabel.nl" title="Voedingswaardetabel"><img src="/_lib/img/icons/nl.png" class="iconsetr" alt="Voedingswaardetabel - Nederlands" /></a>
+                        <a href="http://www.foodnutritiontable.com" title="Food Nutrition Table"><img src="/_lib/img/icons/us.png" class="iconsetr" alt="Food Nutrition Table - English" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <input type="hidden" name="ctl00$hdfBookAd" id="hdfBookAd" value="1" />
+        <input type="hidden" name="ctl00$hdfPP" id="hdfPP" value="0" />
+        <input type="hidden" name="ctl00$hdfAjaxcall" id="hdfAjaxcall" value="eAA4UYBiU2DbZxZo14+TdCAP1YEgSqed" />
+        <input type="hidden" name="ctl00$hdfFilterClose" id="hdfFilterClose" value="Zoekfilters sluiten" />
+        <input type="hidden" name="ctl00$hdfFilterOpen" id="hdfFilterOpen" value="Zoekfilters openen" />
+        <input type="hidden" name="ctl00$hdfFilterAct" id="hdfFilterAct" value="Zoekterm niet mogelijk" />
+        
+        <script type="text/javascript" src="/_lib/jav/jquery-3.2.1.min.js"></script>
+        <script type="text/javascript" src="/_lib/jav/jquery.min.js"></script>
+        <script type="text/javascript" src="/_lib/jav/jsall.js"></script>
+        
+    <script type="text/javascript" src="/_lib/jav/prods.min.js"></script>
+    <script type="text/javascript" src="/_lib/jav/ui/jquery.ui.touch-punch.min.js"></script>
+
+        
+    
+
+<script src="/Scripts/AjaxControlToolkit/Bundle?v=8DXPDBEvJujdA4qnP54BbERNqobWj5mwdTEzSytCRF41" type="text/javascript"></script>
+<script src="../../Scripts/AjaxControlToolkit/Release/Common.js" type="text/javascript"></script>
+<script src="../../Scripts/AjaxControlToolkit/Release/ComponentSet.js" type="text/javascript"></script>
+<script src="../../Scripts/AjaxControlToolkit/Release/BaseScripts.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=al-umMTTkRkLOcDQ7hjbtje3OkSHuCVRo3vISrxNV4gNevj76YO7cnqXDzKBqDRHY1oR-cbnrOBHYVnNBZJnT2ItPeKTKP8CGNPHTd10eGAi7xCiKqDz0b5Prcy5dTwz_CAr1JZPauZVWugQX-9_Bg2&amp;t=17b84382" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_tbwSearch_ClientState","id":"ctl00_tbwSearch","watermarkCssClass":"inputwatermark","watermarkText":"product"}, null, null, $get("txtSearch"));
+});
+//]]>
+</script>
+</form>
+    <link rel="Stylesheet" href="/_lib/css/cssnc.css" media="all" />
+    <script>
+        $(document).ready(function(){$(".hammenu").click(function(){if($(".ddsmoothmenu ul").css('visibility')=='hidden'){$(".ddsmoothmenu ul").css('visibility','visible');}else{$(".ddsmoothmenu ul").css('visibility','hidden');}});});
+    </script>
+    
+        <script type="text/javascript" src="https://massarius-jomaanrobv.netdna-ssl.com/massarius.js"></script>
+    
+</body>
+</html>

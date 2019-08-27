@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="fanta" version="3.0" targetId="76b81574c72941c9b70c79c5b36684eb" sideLength="12.000000" topDiameter="6.000000" bottomDiameter="6.000000" sideImage="fanta.Body_scaled.jpg" topImage="fanta.Top_scaled.jpg" bottomImage="fanta.Bottom_scaled.jpg"/>
+        <CylinderTarget name="cola_light" version="3.0" targetId="bdfd6e59f7154d8f9b5c7b1f26c6b257" sideLength="12.000000" topDiameter="6.000000" bottomDiameter="6.000000" sideImage="cola_light.Body_scaled.jpg" topImage="cola_light.Top_scaled.jpg" bottomImage="cola_light.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

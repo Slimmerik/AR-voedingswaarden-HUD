@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="cola_light" version="3.0" targetId="af17faa939164ca0a4e3ef9126ebdb35" sideLength="13.000000" topDiameter="6.500000" bottomDiameter="6.500000" sideImage="cola_light.Body_scaled.jpg" topImage="cola_light.Top_scaled.jpg" bottomImage="cola_light.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
