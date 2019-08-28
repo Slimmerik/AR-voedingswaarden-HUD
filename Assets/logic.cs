@@ -40,7 +40,7 @@ public class logic : MonoBehaviour
     }
 
 
-    private List<meal> meal_list = new List<meal>();
+    public List<meal> meal_list = new List<meal>();
 
 
 
@@ -50,9 +50,9 @@ public class logic : MonoBehaviour
     {
         meal_list.Add(new meal("ontbijt", 300.0, 6.0, 10, 40, 10));
         meal_list.Add(new meal("lunch", 300.0, 7.0, 5, 30, 15));
-        meal_list.Add(new meal("dinner", 1200.0, 5.0, 30, 100, 40));
-        meal_list.Add(new meal("cola", 100.0, 4.0, 0.0, 40.0, 0.0));
-        meal_list.Add(new meal("cola", 100.0, 5.2, 0.0, 40.0, 0.0));
+        //meal_list.Add(new meal("dinner", 1200.0, 5.0, 30, 100, 40));
+        //meal_list.Add(new meal("cola", 100.0, 4.0, 0.0, 40.0, 0.0));
+        //meal_list.Add(new meal("cola", 100.0, 5.2, 0.0, 40.0, 0.0));
     }
 
     // Update is called once per frame
@@ -70,6 +70,7 @@ public class logic : MonoBehaviour
     {
         meal_list.Add(m);
     }
+
 
     public meal get_total_value()
     {
@@ -102,4 +103,7 @@ public class logic : MonoBehaviour
     {
         aantal_unhealt_consumption = aantal_unhealt_consumption + 1;
     }
+
+
+
 }

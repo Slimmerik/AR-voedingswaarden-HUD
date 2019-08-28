@@ -395,5 +395,5 @@ public class menage_consumption : MonoBehaviour
 
     }
 
-
+    
 }

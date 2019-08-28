@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{65C4FC5E-0245-40A6-7474-C6D4A513A90B}</ProjectGuid>
+    <ProjectGuid>{5B654223-63BA-75E1-851E-332DFA70D3FB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -57,6 +57,7 @@
   <ItemGroup>
      <Compile Include="Assets\logic.cs" />
      <Compile Include="Assets\menage_consumption.cs" />
+     <Compile Include="Assets\menu_controll.cs" />
      <Compile Include="Assets\Scale_Gameplane.cs" />
      <Compile Include="Assets\server_connection.cs" />
      <Compile Include="Assets\TEst.cs" />
@@ -78,25 +79,25 @@
      <None Include="Assets\Vuforia\Shaders\DepthContour.shader" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>X:/projecten/ARD/ARD 1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>X:/projecten/ARD/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>X:/projecten/ARD/ARD 1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>X:/projecten/ARD/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>X:/projecten/ARD/ARD 1/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>X:/projecten/ARD/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>X:/projecten/ARD/ARD 1/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>X:/projecten/ARD/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>X:/projecten/ARD/ARD 1/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>X:/projecten/ARD/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>X:/projecten/ARD/ARD 1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>X:/projecten/ARD/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>X:/projecten/ARD/ARD 1/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>X:/projecten/ARD/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>X:/Program Files (x86)/Unity editor/2019.1.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -279,13 +280,13 @@
  <HintPath>X:/Program Files (x86)/Unity editor/2019.1.1f1/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>X:/projecten/ARD/ARD 1/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>X:/projecten/ARD/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>X:/projecten/ARD/ARD 1/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>X:/projecten/ARD/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>X:/projecten/ARD/ARD 1/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>X:/projecten/ARD/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>X:/Program Files (x86)/Unity editor/2019.1.1f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -635,11 +636,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VuforiaScripts.csproj">
-      <Project>{7418B4FD-2519-955D-89F9-4B32FD24452E}</Project>
+      <Project>{45C38A0D-3C37-225D-8573-27558C4C2F68}</Project>
       <Name>VuforiaScripts</Name>
     </ProjectReference>
     <ProjectReference Include="VuforiaEditorScripts.csproj">
-      <Project>{E1C60FAF-4F8A-B7E2-740A-8CB1B1E35DAE}</Project>
+      <Project>{CAA05261-4C84-8CE2-BADD-1BFCBED6519E}</Project>
       <Name>VuforiaEditorScripts</Name>
     </ProjectReference>
   </ItemGroup>

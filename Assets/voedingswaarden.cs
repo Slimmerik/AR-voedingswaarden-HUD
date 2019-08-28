@@ -4,12 +4,6 @@ using System;
 using System.IO;
 using System.Net;
 using System.Text;
-
-
-
-
-
-
 using UnityEngine;
 
 public class voedingswaarden : MonoBehaviour
@@ -36,16 +30,13 @@ public class voedingswaarden : MonoBehaviour
     
 
     // Update is called once per frame
-    void Update()
-    {
-  
 
-    }
 
 
     string GetProductRequest(int id) {
            // Create a request for the URL. 		
         WebRequest request = WebRequest.Create("https://www.voedingswaardetabel.nl/voedingswaarde/voedingsmiddel/?id=" + id);
+        Debug.Log(id);
         // If required by the server, set the credentials.
         request.Credentials = CredentialCache.DefaultCredentials;
         // Get the response.
