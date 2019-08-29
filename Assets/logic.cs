@@ -6,19 +6,19 @@ using UnityEngine;
 
 public class logic : MonoBehaviour
 {
-    public voedingswaarden voeding_web_scrape = new voedingswaarden();
-    public double max_fat = 0.0;
-    public double max_prot = 0.0;
-    public double max_carb = 0.0;
-    public double max_kcal = 0.0;
-    public int max_unhealty_comsumpltions = 0;
+    public voedingswaarden voeding_web_scrape = new voedingswaarden(); //voedingswaarden scrape script
+    public double max_fat = 0.0; //max vet
+    public double max_prot = 0.0; //max protein
+    public double max_carb = 0.0; //max koolydraaten
+    public double max_kcal = 0.0; //max kcal
+    public int max_unhealty_comsumpltions = 0; //max ongezonde consumpties
 
-    public int aantal_unhealt_consumption = 0;
+    public int aantal_unhealt_consumption = 0; //aantal ongezonde consumpties
 
-    public double gezonde_consumptie_trashold = 6.0;
+    public double gezonde_consumptie_trashold = 6.0; //trashold voor ongezonde consumpites beoordeeld door voedingswaardetabel.nl
 
 
-
+    //maaltijden struct
     public struct meal
     {
         public string name;
@@ -40,7 +40,7 @@ public class logic : MonoBehaviour
     }
 
 
-    public List<meal> meal_list = new List<meal>();
+    public List<meal> meal_list = new List<meal>(); // lijst met maaltijden
 
 
 
@@ -61,17 +61,19 @@ public class logic : MonoBehaviour
 
     }
 
+    //maaltijd toevoegen per id
     public void add_meal(int id)
     {
         meal_list.Add(voeding_web_scrape.updateAllVoedingsValues(id));
     }
 
+    //maaltijd toevoegen per maal struct
     public void add_meal(meal m)
     {
         meal_list.Add(m);
     }
 
-
+    //totaal voedingswaarden van ingevoerde maaltijden
     public meal get_total_value()
     {
         meal total_meal = new meal();
@@ -86,6 +88,7 @@ public class logic : MonoBehaviour
         return total_meal;
     }
 
+    //gemiddelde gezondheidswaarden van alle maaltijden
     public double gethealscore()
     {
         double healscore = 0;
@@ -99,6 +102,7 @@ public class logic : MonoBehaviour
         return healscore;
     }
 
+    //voeg ongezonde maaltijd toe
     public void add_unhealy_consuption()
     {
         aantal_unhealt_consumption = aantal_unhealt_consumption + 1;

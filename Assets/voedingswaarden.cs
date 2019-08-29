@@ -8,15 +8,17 @@ using UnityEngine;
 
 public class voedingswaarden : MonoBehaviour
 {
-    private string targetsite;
-    public int productID = 0;
+    private string targetsite = ""; //html van de site 
+    public int productID = 0; //product id
 
     // Start is called before the first frame update
     void Start()
     {
-        if (productID != 0) {
+        if (productID != 0)
+        {
             targetsite = GetProductRequest(productID);
         }
+
         //Debug.Log("###########");
         //Debug.Log(GetKcal(targetsite));
         //Debug.Log(GetEiwit(targetsite));
@@ -27,16 +29,13 @@ public class voedingswaarden : MonoBehaviour
         //Debug.Log(GetVet(targetsite));
         //Debug.Log("###########");
     }
-    
-
-    // Update is called once per frame
 
 
-
-    string GetProductRequest(int id) {
-           // Create a request for the URL. 		
+    //get html van website plus id
+    string GetProductRequest(int id)
+    {
+        // Create a request for the URL. 		
         WebRequest request = WebRequest.Create("https://www.voedingswaardetabel.nl/voedingswaarde/voedingsmiddel/?id=" + id);
-        Debug.Log(id);
         // If required by the server, set the credentials.
         request.Credentials = CredentialCache.DefaultCredentials;
         // Get the response.
@@ -58,9 +57,10 @@ public class voedingswaarden : MonoBehaviour
         return responseFromServer;
     }
 
-    public logic.meal updateAllVoedingsValues(int id) {
+    //update alle voedingsvalues
+    public logic.meal updateAllVoedingsValues(int id)
+    {
         targetsite = GetProductRequest(id);
-        Debug.Log(targetsite);
         return new logic.meal(
             GetName(targetsite) + " " + GetProductGroep(targetsite),
             GetKcal(targetsite),
@@ -71,63 +71,117 @@ public class voedingswaarden : MonoBehaviour
             );
     }
 
-    double  GetKcal(string site)
+    //get kcal van html string
+    double GetKcal(string site)
     {
-        string[] spited = site.Split(new string[] { @"<span id=""lblKcal"">" }, StringSplitOptions.None);
-        //string[] kcal = site.Split(new string[] { "ColumnLeft" }, StringSplitOptions.None);
-        string[] value = spited[1].Split('<');
-        return Convert.ToDouble(value[0]);
+        try
+        {
+            string[] spited = site.Split(new string[] { @"<span id=""lblKcal"">" }, StringSplitOptions.None);
+            //string[] kcal = site.Split(new string[] { "ColumnLeft" }, StringSplitOptions.None);
+            string[] value = spited[1].Split('<');
+            return Convert.ToDouble(value[0]);
+        }
+        catch
+        {
+            return 0.0;
+        }
+
     }
 
+    //get product groep van html string
     string GetProductGroep(string site)
     {
-        string[] spited1 = site.Split(new string[] { @"Productgroep:" }, StringSplitOptions.None);
-        //string[] kcal = site.Split(new string[] { "ColumnLeft" }, StringSplitOptions.None);
-        string[] spited2 = spited1[1].Split('>');
-        string[] value = spited2[3].Split('<');
+        try
+        {
+            string[] spited1 = site.Split(new string[] { @"Productgroep:" }, StringSplitOptions.None);
+            //string[] kcal = site.Split(new string[] { "ColumnLeft" }, StringSplitOptions.None);
+            string[] spited2 = spited1[1].Split('>');
+            string[] value = spited2[3].Split('<');
 
-        return value[0];
+            return value[0];
+        }
+        catch
+        {
+            return "not a valid id";
+        }
     }
 
+    //get gezondheidswaarden van html string
     double Getgezondheidswaarden(string site)
     {
-        string[] spited1 = site.Split(new string[] { @"Gezondheidswaarde:" }, StringSplitOptions.None);
-        //string[] kcal = site.Split(new string[] { "ColumnLeft" }, StringSplitOptions.None);
-        string[] spited2 = spited1[1].Split('>');
-        string[] value = spited2[4].Split('<');
-        return Convert.ToDouble(value[0]);
-
-        //return value[0];
+        try
+        {
+            string[] spited1 = site.Split(new string[] { @"Gezondheidswaarde:" }, StringSplitOptions.None);
+            //string[] kcal = site.Split(new string[] { "ColumnLeft" }, StringSplitOptions.None);
+            string[] spited2 = spited1[1].Split('>');
+            string[] value = spited2[4].Split('<');
+            return Convert.ToDouble(value[0]);
+        }
+        catch
+        {
+            return 0.0;
+        }
     }
 
+    //get name van html string
     string GetName(string site)
     {
-        string[] spited = site.Split(new string[] { @"<h2>" }, StringSplitOptions.None);
-        //string[] kcal = site.Split(new string[] { "ColumnLeft" }, StringSplitOptions.None);
-        string[] value = spited[1].Split('<');
-        return value[0];
+        try
+        {
+            string[] spited = site.Split(new string[] { @"<h2>" }, StringSplitOptions.None);
+            //string[] kcal = site.Split(new string[] { "ColumnLeft" }, StringSplitOptions.None);
+            string[] value = spited[1].Split('<');
+            return value[0];
+        }
+        catch
+        {
+            return "not found";
+        }
     }
 
+    //get protein van html string
     double GetEiwit(string site)
     {
-        string[] spited = site.Split(new string[] { @"<span id=""lblEiwit"">" }, StringSplitOptions.None);
-        //string[] kcal = site.Split(new string[] { "ColumnLeft" }, StringSplitOptions.None);
-        string[] value = spited[1].Split('<');
-        return Convert.ToDouble(value[0]);
+        try
+        {
+            string[] spited = site.Split(new string[] { @"<span id=""lblEiwit"">" }, StringSplitOptions.None);
+            //string[] kcal = site.Split(new string[] { "ColumnLeft" }, StringSplitOptions.None);
+            string[] value = spited[1].Split('<');
+            return Convert.ToDouble(value[0]);
+        }
+        catch
+        {
+            return 0.0;
+        }
     }
 
+    //get vet van html string
     double GetVet(string site)
     {
-        string[] spited = site.Split(new string[] { @"<span id=""lblVet"">" }, StringSplitOptions.None);
-        string[] value = spited[1].Split('<');
-        return Convert.ToDouble(value[0]);
+        try
+        {
+            string[] spited = site.Split(new string[] { @"<span id=""lblVet"">" }, StringSplitOptions.None);
+            string[] value = spited[1].Split('<');
+            return Convert.ToDouble(value[0]);
+        }
+        catch
+        {
+            return 0.0;
+        }
     }
-
+    //get koolhydraten van html string
     double GetKoolhydraten(string site)
     {
-        string[] spited = site.Split(new string[] { @"<span id=""lblKoolh"">" }, StringSplitOptions.None);
-        //string[] kcal = site.Split(new string[] { "ColumnLeft" }, StringSplitOptions.None);
-        string[] value = spited[1].Split('<');
-        return Convert.ToDouble(value[0]);
+        try
+        {
+            string[] spited = site.Split(new string[] { @"<span id=""lblKoolh"">" }, StringSplitOptions.None);
+            //string[] kcal = site.Split(new string[] { "ColumnLeft" }, StringSplitOptions.None);
+            string[] value = spited[1].Split('<');
+            return Convert.ToDouble(value[0]);
+        }
+        catch
+        {
+            return 0.0;
+        }
     }
 }

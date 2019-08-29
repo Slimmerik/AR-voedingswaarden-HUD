@@ -4,46 +4,46 @@ using UnityEngine;
 
 public class menage_consumption : MonoBehaviour
 {
-    public logic consumption_container;
-    public voedingswaarden voeding_web_scrape;
+    public logic consumption_container; //consumptie container script
+    public voedingswaarden voeding_web_scrape; //voedingswaarden webscrape script
 
-    private double prcentvodaan_fat;
-    private double prcentvodaan_prot;
-    private double prcentvodaan_car;
-    private double prcentvodaan_kcal;
-    private int procent_aantal_ongezonde_consumpties;
+    private double prcentvodaan_fat; //percentage vet van ingevoerde maaltijden
+    private double prcentvodaan_prot; //percentage protein van ingevoerde maaltijden
+    private double prcentvodaan_car; //percentage carbs van ingevoerde maaltijden
+    private double prcentvodaan_kcal; //percentage van kcal van ingevoerde maaltijden
+    private int procent_aantal_ongezonde_consumpties; //percentage ongezonde consumpties van ingevoerde maaltijden
 
-    private double prcentvodaan_fat_plus_consumptie;
-    private double prcentvodaan_prot_plus_consumptie;
-    private double prcentvodaan_car_plus_consumptie;
-    private double prcentvodaan_kcal_plus_consumptie;
-    private double procent_aantal_ongezonde_consumpties_plus_consumptie;
-    
-    public GameObject sphere;
+    private double prcentvodaan_fat_plus_consumptie; //percentage vet van ingevoerde maaltijden + consumptie
+    private double prcentvodaan_prot_plus_consumptie; //percentage protein van ingevoerde maaltijden + consumptie
+    private double prcentvodaan_car_plus_consumptie; //percentage carbs van ingevoerde maaltijden + consumptie
+    private double prcentvodaan_kcal_plus_consumptie; //percentage van kcal van ingevoerde maaltijden + consumptie
+    private double procent_aantal_ongezonde_consumpties_plus_consumptie; //percentage ongezonde consumpties van ingevoerde maaltijden + consumptie
 
-    public GameObject fatbar;
-    public GameObject protbar;
-    public GameObject carbbar;
-    public GameObject kcalbar;
-    public GameObject healtybar;
+    public GameObject sphere; //sphere object 
 
-    public GameObject fatbar_plus_consumptie;
-    public GameObject protbar_plus_consumptie;
-    public GameObject carbbar_plus_consumptie;
-    public GameObject kcalbar_plus_consumptie;
-    public GameObject healtybar_plus_consumptie;
+    public GameObject fatbar; //vet balk
+    public GameObject protbar; //prot balk
+    public GameObject carbbar; //carb balk
+    public GameObject kcalbar; //kcal balk
+    public GameObject healtybar; //health balk
+
+    public GameObject fatbar_plus_consumptie; //vetbalk + consumptie
+    public GameObject protbar_plus_consumptie; // prot balk + consumptie
+    public GameObject carbbar_plus_consumptie; // carb balk + consumptie
+    public GameObject kcalbar_plus_consumptie; // kcal balk + consumptie
+    public GameObject healtybar_plus_consumptie; //health balk + consumptie
 
 
-    public Material red;
-    public Material yellow;
-    public Material green;
-    public Material white;
-    public Material black;
-    public Material blue;
+    public Material red; //rood materiaal
+    public Material yellow; //geen materiaal
+    public Material green; //groen materiaal
+    public Material white; //wit materiaal
+    public Material black; //zwart materiaal
+    public Material blue; //blauw materiaal
 
-    public int consumptie_id;
-    public double consumptie_multiplier;
-    private logic.meal consumptie_waarden;
+    public int consumptie_id; // consumptie id wat wordt gebruikt bij www.voedingswaardetabel.nl
+    public double consumptie_multiplier; // consumptie waarden komt binnen per 100g en de multiplier geeft aan hoeveel gram/ml het is 100*3.3 is 330ml ergo de inhoud van een standaard blikje
+    private logic.meal consumptie_waarden;// consumptie waarden in meal struct
     // Start is called before the first frame update
     void Start()
     {
@@ -63,41 +63,33 @@ public class menage_consumption : MonoBehaviour
             update_procenten_met_consumptie();
             update_scoreboard_plus_consumptie();
             color_sphere();
+            //Debug.Log(
+            //    "fat: " + consumptie_waarden.fat + "\n" +
+            //    "prot: " + consumptie_waarden.prot + "\n" +
+            //    "carb: " + consumptie_waarden.carb + "\n" +
+            //    "kcal: " + consumptie_waarden.kcal + "\n" +
+            //    "healtyscore: " + consumptie_waarden.healtyscore + "\n"
+            //    );
     //        Debug.Log(
-    //            "fat: " + consumptie_waarden.fat + "\n" +
-    //            "prot: " + consumptie_waarden.prot + "\n" +
-    //            "carb: " + consumptie_waarden.carb + "\n" +
-    //            "kcal: " + consumptie_waarden.kcal + "\n" +
-    //            "healtyscore: " + consumptie_waarden.healtyscore + "\n"
+    //"fat: " + prcentvodaan_fat + "\n" +
+    //"prot: " + prcentvodaan_prot + "\n" +
+    //"carb: " + prcentvodaan_car + "\n" +
+    //"kcal: " + prcentvodaan_kcal + "\n" +
+    //"healtyscore: " + procent_aantal_ongezonde_consumpties + "\n"
+    //);
+
+    //        Debug.Log(
+    //            "fat: " + prcentvodaan_fat_plus_consumptie + "\n" +
+    //            "prot: " + prcentvodaan_prot_plus_consumptie + "\n" +
+    //            "carb: " + prcentvodaan_car_plus_consumptie + "\n" +
+    //            "kcal: " + prcentvodaan_kcal_plus_consumptie + "\n" +
+    //            "healtyscore: " + procent_aantal_ongezonde_consumpties_plus_consumptie + "\n"
 
 
-            //            );
-            //        Debug.Log(
-            //"fat: " + prcentvodaan_fat + "\n" +
-            //"prot: " + prcentvodaan_prot + "\n" +
-            //"carb: " + prcentvodaan_car + "\n" +
-            //"kcal: " + prcentvodaan_kcal + "\n" +
-            //"healtyscore: " + procent_aantal_ongezonde_consumpties + "\n"
-
-
-            //);
-
-            //        Debug.Log(
-            //            "fat: " + prcentvodaan_fat_plus_consumptie + "\n" +
-            //            "prot: " + prcentvodaan_prot_plus_consumptie + "\n" +
-            //            "carb: " + prcentvodaan_car_plus_consumptie + "\n" +
-            //            "kcal: " + prcentvodaan_kcal_plus_consumptie + "\n" +
-            //            "healtyscore: " + procent_aantal_ongezonde_consumpties_plus_consumptie + "\n"
-
-
-            //            );
-
-
-
+    //        );
         }
-
     }
-
+    //update de balkjes van het scoreboard van alle ingevoerde maaltijden.
     void update_scoreboard()
     {
 
@@ -248,14 +240,16 @@ public class menage_consumption : MonoBehaviour
 
     }
 
-    void update_scoreboard_plus_consumptie() {
+    //update de balkjes van het scoreboard van alle ingevoerde maaltijden + consumptie.
+    void update_scoreboard_plus_consumptie()
+    {
         //calc kcal bar
         if (prcentvodaan_kcal_plus_consumptie != 0)
         {
             float calc_kcal = (0.3f + (2.0f * (float)prcentvodaan_kcal_plus_consumptie));
 
             kcalbar_plus_consumptie.GetComponent<Renderer>().material = blue;
-    
+
 
             if (calc_kcal < 2.3f)
             {
@@ -338,9 +332,9 @@ public class menage_consumption : MonoBehaviour
         //calc aantal_ongezonde_consumpties bar
         if (procent_aantal_ongezonde_consumpties_plus_consumptie != 0)
         {
-            
+
             healtybar_plus_consumptie.GetComponent<Renderer>().material = blue;
-  
+
             float calc_aoc = (0.3f + (2.0f * (float)procent_aantal_ongezonde_consumpties_plus_consumptie));
             if (calc_aoc < 2.3f)
             {
@@ -358,6 +352,7 @@ public class menage_consumption : MonoBehaviour
 
     }
 
+    //update percentage tot maximaal ingevoerde voedingswaarden
     void update_procenten()
     {
         logic.meal total = consumption_container.get_total_value();
@@ -368,32 +363,41 @@ public class menage_consumption : MonoBehaviour
         procent_aantal_ongezonde_consumpties = consumption_container.aantal_unhealt_consumption / consumption_container.max_unhealty_comsumpltions;
     }
 
+    //update percentage tot maximaal ingevoerde voedingswaarden + consumptie
     void update_procenten_met_consumptie()
     {
         logic.meal total = consumption_container.get_total_value();
-        prcentvodaan_fat_plus_consumptie = (total.fat + (consumptie_waarden.fat* consumptie_multiplier)) / consumption_container.max_fat;
+        prcentvodaan_fat_plus_consumptie = (total.fat + (consumptie_waarden.fat * consumptie_multiplier)) / consumption_container.max_fat;
         prcentvodaan_prot_plus_consumptie = (total.prot + (consumptie_waarden.prot * consumptie_multiplier)) / consumption_container.max_prot;
         prcentvodaan_kcal_plus_consumptie = (total.kcal + (consumptie_waarden.kcal * consumptie_multiplier)) / consumption_container.max_kcal;
         prcentvodaan_car_plus_consumptie = (total.carb + (consumptie_waarden.carb * consumptie_multiplier)) / consumption_container.max_carb;
-        if (consumptie_waarden.healtyscore > consumption_container.gezonde_consumptie_trashold) {
-            procent_aantal_ongezonde_consumpties_plus_consumptie = consumption_container.aantal_unhealt_consumption  / consumption_container.max_unhealty_comsumpltions;
+        if (consumptie_waarden.healtyscore > consumption_container.gezonde_consumptie_trashold)
+        {
+            procent_aantal_ongezonde_consumpties_plus_consumptie = consumption_container.aantal_unhealt_consumption / consumption_container.max_unhealty_comsumpltions;
         }
-        else {
+        else
+        {
             procent_aantal_ongezonde_consumpties_plus_consumptie = (((double)consumption_container.aantal_unhealt_consumption + 1.0) / (double)consumption_container.max_unhealty_comsumpltions);
         }
     }
 
+    //update de kleur van de sphere boven de consumptie.
     void color_sphere()
     {
-        if (prcentvodaan_fat_plus_consumptie < 1.0 && prcentvodaan_prot_plus_consumptie < 1.0 && prcentvodaan_kcal_plus_consumptie < 1.0 && prcentvodaan_car_plus_consumptie < 1.0 && procent_aantal_ongezonde_consumpties_plus_consumptie < 1.0) {
+        if (prcentvodaan_fat_plus_consumptie < 1.0 && prcentvodaan_prot_plus_consumptie < 1.0 && prcentvodaan_kcal_plus_consumptie < 1.0 && prcentvodaan_car_plus_consumptie < 1.0 && procent_aantal_ongezonde_consumpties_plus_consumptie < 1.0)
+        {
             sphere.GetComponent<Renderer>().material = yellow;
-        } else if (prcentvodaan_fat_plus_consumptie < 0.5 && prcentvodaan_prot_plus_consumptie < 0.5 && prcentvodaan_kcal_plus_consumptie < 0.5 && prcentvodaan_car_plus_consumptie < 0.5 && procent_aantal_ongezonde_consumpties_plus_consumptie < 0.5) {
+        }
+        else if (prcentvodaan_fat_plus_consumptie < 0.5 && prcentvodaan_prot_plus_consumptie < 0.5 && prcentvodaan_kcal_plus_consumptie < 0.5 && prcentvodaan_car_plus_consumptie < 0.5 && procent_aantal_ongezonde_consumpties_plus_consumptie < 0.5)
+        {
             sphere.GetComponent<Renderer>().material = green;
-        }else{
+        }
+        else
+        {
             sphere.GetComponent<Renderer>().material = red;
         }
 
     }
 
-    
+
 }
